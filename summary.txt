@@ -1,0 +1,18 @@
+Valid Python Code (4/4)
+Code included runs without any errors.
+
+Implementation of Project Requirements (4/4)
+Code produces the suite of functions and classes required of it and calls them in an appropriate order.
+
+Software Architecture (4/4)
+Code is separated into distinct classes and functions each which are invoked for their own purposes. 
+
+Uses Python Language Features (4/4)
+Code uses language features appropriately. If a task can be solved with a Python language feature, it is.
+
+---
+
+Great job on this project! Your code is clean and well-commented! I would only work on making your output 
+more clear and readable to the user. Try including spaces between each output or represent items in list
+in a more readable way. How would you use string formatting to do so? Other than that, great job!
+
